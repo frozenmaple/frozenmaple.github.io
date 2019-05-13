@@ -1,0 +1,55 @@
+---
+layout: post
+title: Resume
+date:   2019-05-13 11:46:38 +0800
+---
+
+# Personal Info
+
+* Name : Feng QIAN
+* E-mail: feng.qian@cslg.edu.cn
+* Office: Room 2422, Hongdao Building, School of Physics and Electronic Engineering, Changshu Institute of Technology
+* Field of Interest: Acoustic metamaterial, Cognitive radio, Programming
+
+# List of Publications
+## Journal publications
+1. *Feng Qian*, Ping Zhao, Li Quan, Xiaozhou Liu, Xiufen Gong, Broadband acoustic omnidirectional absorber based on temperature gradients, EPL, 2014, 107 (3)
+2. *Feng Qian*, Li Quan, Liwei Wang, Xiaozhou Liu, Xiufen Gong, Tunable acoustic radiation pattern assisted by effective impedance boundary, Chin. Phys. B, 2016, 25 (2)
+3. *Feng Qian*, Study of spectrum sensing algorithms in the cognitive radio network, Electronic Sci. Tech., 2011, 24 (3)
+4. *Feng Qian*, Study of English teaching strategies in Electronic information and communications major, Educational Review, 2012, 6 (2)
+5. Li Quan, *Feng Qian*, Xiaozhou Liu, Xiufen Gong, Paul A. Johnson, Mimicking surface plasmons in acoustics at low frequency, Phys. Rev. B, 2015, 92, 104105
+6. Li Quan, *Feng Qian*, Xiaozhou Liu, Xiufen Gong, Acoustic transmission enhancement through a soft interlayer with a reactance boundary, J. Acoust. Soc. Am., 2015, 138, 782
+7. Na Sun, *Feng Qian*, Xiaozhou Liu, Study of signal processing in parametric acoustic array based on Simulink, Journal of Nanjing University (Natural Sciences), 2015, 7, 1
+8. Li Quan, *Feng Qian*, Xiaozhou Liu, Xiufen Gong, A nonlinear acoustic metamaterial: Realization of a backward-travelling second-harmonic sound wave, J. Acoust. Soc. Am., 2016, 139, 3373
+
+## Conference papers
+1. *Feng Qian*, Li Quan, Xiaozhou Liu, Xiufen Gong, Sound beam manipulation based on temperature gradients, The 20th International Symposium on Nonlinear Acoustics, Écully, France, 29 June–3 July 2015
+2. Peng Wang, Wee Sery, *Feng Qian*, Kernel-Based Error Rate Estimation for M-ary Modulation, IEEE WCNC Workshop on New Advances for Physical Layer Network Coding, Shanghai, China, 7-10 April 2013
+
+## Education
+1. 2000.9 - 2004.6 
+  Bachelor Degree, Electronic Science & Technology, Department of Electronic Engineering, Nanjing University, China
+2. 2008.9 – 2011.7 
+  Master Degree, Wireless Communication Systems, School of Information and Communication, Guilin University of Electronic Technology, China
+3. 2013.9 – 2018.3
+  Ph.D., Acoustics, Institute of Acoustics, School of Physics, Nanjing University, China 
+4. 2016.8-2017.9
+  Joint Ph.D. candidate, Mechanical Engineering, University of Colorado, Boulder, USA
+
+## Certifications and Prizes
+* Microsoft Certificated System Engineer (2002)
+* JLPT: Band 4 (2007)
+* Outstanding Student Leaders of Guilin University of Electronic Technology (2009, 2010)
+* Second Prize of National English Competition for College Students (2010, A rank) 
+* Excellent Master Dissertation of Guilin University of Electronic Technology (2011)
+* Outstanding Graduate Student of Nanjing University (2015)
+  IELTS: 7.0 (2016)
+
+## Work Experience
+1. 2004.7 – present: Teacher of Changshu Institute of Technology, China
+2. 2004.9 – 2007.6: Administrator of Multimedia Laboratory at School of Physics & Electronic Engineering, Changshu Institute of Technology, China
+
+## Other Info
+* Language: Chinese, English and Japanese
+* Travel History – Japan(2012)；France(2015)；Belgium(2015); USA(2016); Taiwan(2019)
+
